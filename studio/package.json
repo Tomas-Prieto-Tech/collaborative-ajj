@@ -1,0 +1,29 @@
+{
+  "name": "cajj-studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "sanity dev",
+    "build": "sanity build",
+    "deploy": "sanity deploy",
+    "typecheck": "tsc --noEmit",
+    "import:gallery": "sanity exec scripts/import-gallery.ts --with-user-token"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sanity": "^6.13.2",
+    "styled-components": "^6.1.15"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "@types/react": "^19.1.0",
+    "typescript": "^5.9.2"
+  },
+  "overrides": {
+    "js-yaml@3.x": "^3.15.2",
+    "smol-toml": "^1.7.1",
+    "adm-zip": "^0.6.1"
+  }
+}

@@ -1,3 +1,9 @@
 node_modules
 .next
 *.tsbuildinfo
+
+.env*
+!.env.example
+studio/dist/
+.sanity/
+.DS_Store
