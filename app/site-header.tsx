@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
-import logo from '../assets/cajj-logo.png';
+import logo from '../assets/collab-gracie final logo.png';
 
 const links = [
   { href: '/', label: 'Home' },
