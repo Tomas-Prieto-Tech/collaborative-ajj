@@ -4,7 +4,7 @@ export function AcademyContact({ showInstagram = true }: { showInstagram?: boole
   return (
     <ul className="academy-contact" aria-label="Academy contact information">
       <li><a href={`mailto:${academyEmail}`}>{academyEmail}</a></li>
-      <li><a href="tel:+16614777972">661-477-7972</a></li>
+      <li><a href="tel:+16612059353">661-205-9353</a></li>
       {showInstagram && <li><a href="https://www.instagram.com/Collaborativeajj">Instagram: @Collaborativeajj</a></li>}
     </ul>
   );

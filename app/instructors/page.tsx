@@ -9,11 +9,11 @@ const instructors = [
     role: 'Owner & head instructor',
     image: kevin,
     bio: [
-      'Professor Kevin Ross is a Brazilian Jiu-Jitsu black belt, decorated IBJJF competitor, owner and head instructor of The Collaborative Jiu Jitsu, retired California law-enforcement professional, and United States Marine Corps veteran.',
+      'Professor Kevin Ross is a Brazilian Jiu-Jitsu black belt, decorated IBJJF competitor, owner and head instructor of The Collaborative Bakersfield Gracie Allegiance Jiu Jitsu, retired California law-enforcement professional, and United States Marine Corps veteran.',
       'Kevin began his Brazilian Jiu-Jitsu journey in 2009, initially training under renowned instructor and competitor Dan Camarillo. As his journey continued, Kevin trained under Professor Matt Baker, one of several of Jean Jacques Machado’s black belts.',
       'On October 24, 2020, after more than eleven years of training, Kevin was awarded his Brazilian Jiu-Jitsu Black Belt by Professor Matt Baker.',
       'Throughout his Jiu-Jitsu journey, Kevin continually chose to test himself in competition, becoming a decorated IBJJF competitor.',
-      'After several years as a black belt, Kevin took the next step in his Jiu-Jitsu journey and opened his own academy, The Collaborative Jiu Jitsu Academy.',
+      'After several years as a black belt, Kevin took the next step in his Jiu-Jitsu journey and opened his own academy, The Collaborative.',
       'The name Collaborative reflects the philosophy behind the academy of people training, learning, teaching, and improving together—sharing knowledge rather than relying on only one person or one approach. Kevin believes knowledge should be shared and teammates should help one another improve.',
       'In recent years, another meaningful chapter in Kevin’s Jiu-Jitsu journey has been the friendships he has developed with Clark Gracie, his brother Ralston Gracie, and their father, Carley Gracie.',
       'Carley Gracie represents an important connection to the history of Brazilian Jiu-Jitsu in the United States as well as the first to train Marines in Quantico, VA. His sons, Clark and Ralston, have continued their family’s connection to the art through another generation.',

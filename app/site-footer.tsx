@@ -6,7 +6,7 @@ export function SiteFooter() {
   return (
     <footer>
       <div className="footer-wrap">
-        <span>© {new Date().getFullYear()} The Collaborative AJJ</span>
+        <span>© {new Date().getFullYear()} The Collaborative</span>
         <AcademyAddress />
         <AcademyContact showInstagram={false} />
         <Link href="/schedule">Train with us →</Link>

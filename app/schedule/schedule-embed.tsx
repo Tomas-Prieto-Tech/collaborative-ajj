@@ -23,7 +23,7 @@ export function ScheduleEmbed({ scheduleUrl }: { scheduleUrl: string }) {
       ref={frame}
       className="schedule-embed"
       src={embedUrl}
-      title="The Collaborative Jiu Jitsu class schedule"
+      title="The Collaborative Bakersfield Jiu Jitsu class schedule"
       style={height ? { height } : undefined}
     />
   );
