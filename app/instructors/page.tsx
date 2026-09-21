@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import kevin from '../../assets/IMG_4102.jpeg';
 import ramona from '../../assets/IMG_7622.jpeg';
+import andrew from '../../assets/IMG_0674.jpeg';
 
 const instructors = [
   {
@@ -34,7 +35,7 @@ const instructors = [
     id: 'andrew-ross',
     name: 'Andrew Ross',
     role: 'Black belt instructor',
-    image: null,
+    image: andrew,
     bio: [
       'Andrew Ross is a Brazilian Jiu-Jitsu black belt (2024) who has been training continuously since 2009. Known for his modern, highly analytical approach, Andrew specializes in contemporary guard systems, advanced mechanics, and the strategic frameworks defining the modern era of grappling.',
       'His deep grappling foundation includes an extensive background as a collegiate wrestler, which seamlessly blends into his top-tier pressure and positional control. He is also trained in Gracie Survival Tactics (GST) and serves as a defensive tactics instructor for his department, bringing valuable real-world, tactical application to his martial arts foundation.',

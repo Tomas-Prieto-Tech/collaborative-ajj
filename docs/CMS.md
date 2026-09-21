@@ -1,5 +1,7 @@
 # Gallery and announcements
 
+For everyday editing instructions, see the [gym owner’s guide to updating the website](OWNER-GUIDE.md). The rest of this document includes technical setup and handoff notes for the website manager.
+
 The website reads published Sanity content. Only Gallery and Announcements are editable in Studio; other website sections stay in the repository.
 
 ## This installation
