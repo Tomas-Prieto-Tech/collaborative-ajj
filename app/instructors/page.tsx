@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import kevin from '../../assets/IMG_4102.jpeg';
 import ramona from '../../assets/IMG_7622.jpeg';
-import andrew from '../../assets/IMG_0674.jpeg';
+import andrew from '../../assets/IMG_7766-preview.jpeg';
 
 const instructors = [
   {
